@@ -6,17 +6,17 @@
       "run": "javac oddoreven.java && java oddoreven",
       "input": "3",
       "output": "The given number is ODD",
-      "comparison": "included",
+      "comparison": "exact",
       "timeout": 10,
       "points": 10
     },
     {
       "name": "Test 2",
       "setup": "",
-      "run": "javac oddoreven.java && java oddoreven.java",
+      "run": "javac oddoreven.java && java oddoreven",
       "input": "10",
       "output": "The given number is EVEN",
-      "comparison": "included",
+      "comparison": "exact",
       "timeout": 10,
       "points": 10
     }
