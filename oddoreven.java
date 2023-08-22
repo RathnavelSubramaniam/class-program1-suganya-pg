@@ -3,8 +3,8 @@ class oddoreven {
     {
         int num =3;
         if (num%2==0)
-        System.out.println("The given number is ODD");
+        System.out.println("The given number is EVEN");
         else
-         System.out.println("The given number is EVEN");
+        System.out.println("The given number is ODD");
     }
 }
