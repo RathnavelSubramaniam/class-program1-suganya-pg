@@ -5,7 +5,7 @@ class oddoreven {
         Scanner sc=new Scanner(System.in);
         //System.out.println("Enter a number: ");
         //int num=sc.nextInt();
-        int num =10;
+        int num =3;
         if (num%2==0)
         System.out.println("The given number is EVEN");
         else
